@@ -38,8 +38,8 @@ const categories = [
     title: 'Industrial & Cartoon Boxes',
     subtitle: 'Corrugated Master Cartons & Shipping Boxes',
     images: [
-      'https://images.unsplash.com/photo-1513201099705-a9746e1e201f?w=600&fm=webp&q=80',
-      'https://images.unsplash.com/photo-1589939705384-5185138a047a?w=600&fm=webp&q=80'
+      '/images/collections/industrial-pack.png',
+      '/images/collections/cartoon-boxes.png'
     ]
   }
 ]

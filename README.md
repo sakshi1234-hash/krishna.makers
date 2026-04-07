@@ -1,4 +1,4 @@
-# Mithai Mahal - Luxury Sweet Packaging
+# Krishna Box Maker - Premium Sweet Packaging
 
 A premium website for **Krishna Box Makers**, specializing in luxury sweet packing boxes.
 
