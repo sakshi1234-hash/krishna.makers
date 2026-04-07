@@ -16,7 +16,7 @@ const infoCards = [
   {
     icon: <Mail size={24} className="text-secondary" />,
     title: 'Email Communications',
-    content: 'hello@mithaimahal.com | orders@mithaimahal.com'
+    content: 'krishnamakers@jodhpur.com | orders@krishnamakers.com'
   },
   {
     icon: <Clock size={24} className="text-secondary" />,
